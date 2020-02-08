@@ -49,7 +49,7 @@ def search(folder, group):
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print('Error! Usage: generateDir.py path')
+        print('Error! Usage: iar_ewp.py path')
         sys.exit(0)
     else:
         folder = sys.argv[1]
