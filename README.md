@@ -1,7 +1,7 @@
 A tool used for adding directorys and files to IAR project.  
 
 useage example:  
-python generateDir.py d:/lwip  
+python iar_ewp.py d:/lwip  
 
 copy  
 \<group\>...\</group\>  
